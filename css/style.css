@@ -1,0 +1,14 @@
+.ex-primary{
+    width: 200px;
+    height: 100px;
+}
+.row div{
+    border: 1px solid;
+}
+
+@media all and (max-width:767px){
+    .text{
+        text-align: center;
+        background-color: blueviolet;
+    }
+}
